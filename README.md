@@ -1,1 +1,2 @@
 # meesho
+Meesho is an online store where vendors list their goods and customers can buy them. We created a website with a landing page, add products page, products page, basket, and payment pages in order to mimic Meesho. Customers can proceed to the checkout by adding items to their cart and using coupons. Users are taken to a final page where they can finish shopping after their payment has been processed successfully. The project was created with HTML, CSS, and JavaScript.
